@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" target-language="de" datatype="plaintext" original="messages" date="2017-01-53T21:34:00Z" product-name="flex_grid">
+		<header/>
+		<body>
+			<trans-unit id="grid.title" xml:space="preserve">
+				<target>Konfigurierbares Raster</target>
+			</trans-unit>
+			<trans-unit id="grid.description" xml:space="preserve">
+				<target>Fügt ein frei konfigurierbares Raster hinzu, in dem mehrere Spalten definidert und konfiguriert werden können.</target>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

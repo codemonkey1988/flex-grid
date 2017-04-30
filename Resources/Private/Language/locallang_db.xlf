@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-01-25T21:34:00Z" product-name="flex_grid">
+		<header/>
+		<body>
+			<trans-unit id="tt_content.tab-columns" xml:space="preserve">
+				<source>Columns</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,17 @@
+{
+  "name": "codemonkey1988/flex-grid",
+  "type": "typo3-cms-extension",
+  "description": "Adds a new flexible grid element based on flux.",
+  "homepage": "https://github.com/codemonkey1988/flex-grid",
+  "license": ["GPL-2.0+"],
+  "keywords": ["TYPO3 CMS", "flex_grid", "grid", "columns", "flux"],
+  "version": "0.0.1",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Codemonkey1988\\FlexGrid\\": "Classes/"
+    }
+  }
+}
